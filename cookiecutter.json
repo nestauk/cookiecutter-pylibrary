@@ -1,8 +1,8 @@
 {
-    "full_name": "Ionel Cristian Maries",
-    "email": "contact@ionelmc.ro",
-    "website": "https://blog.ionelmc.ro",
-    "github_username": "ionelmc",
+    "full_name": "Nesta",
+    "email": "data@nesta.org.uk",
+    "website": "https://nesta.org.uk",
+    "github_username": "nesta_uk",
     "project_name": "Nameless",
     "repo_name": "python-{{ cookiecutter.project_name|lower|replace(' ','-') }}",
     "package_name": "{{ cookiecutter.project_name|lower|replace(' ','_')|replace('-','_') }}",
